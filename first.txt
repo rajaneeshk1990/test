@@ -5,3 +5,4 @@ hello
 six
 five
 git new added now 
+seven
